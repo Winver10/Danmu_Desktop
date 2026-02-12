@@ -1,0 +1,8 @@
+*/out
+*/bin
+/.vs
+*.un~
+*.swp
+*.suo
+*.sou
+.gitignore~
